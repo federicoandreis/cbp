@@ -1,6 +1,6 @@
 # cbp: Continuous Binomial and Poisson Distributions
 
-This package provides functions for working with continuous binomial and Poisson distributions, including density, distribution, quantile functions, and pseudo-random generation.
+This package provides functions for working with continuous binomial and Poisson distributions, including density, distribution, quantile functions, and pseudo-random generation. A short working paper describing the distributions can be found [here](https://www.researchgate.net/publication/301661624_On_a_continuous_counterpart_of_the_Poisson_distribution). The original work was inspired by [this paper](https://arxiv.org/abs/1303.5990).
 
 ## Installation
 
